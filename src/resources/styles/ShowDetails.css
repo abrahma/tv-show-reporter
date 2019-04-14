@@ -1,0 +1,70 @@
+.ShowDetailsModalOverlay{
+    background-color: blue;
+}
+
+.ShowDetailsModal{
+    background-color:green;
+}
+
+.DetailsCenter{
+    display:flex;
+}
+
+.DetailsImage{
+    width:45%;
+}
+
+.DetailsImage img{
+    width: 100%;
+}
+
+.DetailsInsights{
+    margin-left: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.InsightHeader{
+    width: 30%;
+}
+
+.InsightTable{
+    margin-top: 2rem;
+    font-size: 1em;
+    width:100%;
+}
+
+.EndStatus{
+    background-color: #e80a0abd;
+    border-radius: 0.5rem;
+    padding: 0rem 0.3rem;
+}
+
+.OngoingStatus{
+    background-color: #24d706a3;
+    border-radius: 0.5rem;
+    padding: 0.1rem 0.5rem;
+}
+
+.CastCardImage{
+    width: 5em;
+}
+
+.CastInfoCard{
+    padding: 0.4rem;
+    border: 1px solid #ddd;
+    margin: 0.3rem;
+}
+
+.CastCardName{
+    font-size: 0.8em;
+}
+
+.TagViewer{
+    margin-top: 1em;
+}
+.CastStrip{
+
+}

@@ -1,0 +1,8 @@
+*** constructor of AddShowModal is called multiple times
+
+1) Should we have explicit data model and parse the response accordingly
+2) how to handle data updation in nested UI component
+e.g. State is in App.js, Modification has to be done in ShowDetails and the state needs to be updated
+3) Is there a way to extract horizontal list as a component and pass respective card as prop
+4) In CastInfoCard.js, is there an ES6 way to avoid bind
+5) If I change the CSS lib or a new lib say bootstrap/font-awesome, rest of the styles using em/rem is impacted. How to handle this
